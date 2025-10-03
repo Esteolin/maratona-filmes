@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Carros 2
 - [ ] Kung Fu Panda
+- [ ] Alvin e os esquilos 1
+- [ ] De volta para o futuro
